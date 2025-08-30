@@ -1,7 +1,7 @@
-name: CUPS
+name: CUPS FORK
 version: "1.7"
 slug: cupsik
-description: A CUPS print server with working AirPrint
+description: FORK A CUPS print server with working AirPrint
 arch:
   - amd64
   - aarch64
